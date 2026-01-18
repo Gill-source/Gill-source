@@ -1,4 +1,4 @@
-##Undergraduate student in Computer Engineering and Science at Dongguk University.
+Undergraduate student in Computer Engineering and Science at Dongguk University.
 
 <!--
 **Gill-source/Gill-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
